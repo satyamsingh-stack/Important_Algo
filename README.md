@@ -1,1 +1,1 @@
-# Important_Algorithm which are named on their scientist's name.
+# Important_Algorithm which are named on their founder's name.
