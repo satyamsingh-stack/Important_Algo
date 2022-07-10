@@ -19,7 +19,7 @@ int main(){
 	edge.push_back(Node(3,4,-2));
 	edge.push_back(Node(5,3,1));
 	int source=0;
-	vector<int> dist(n,10000000);
+	vector<int> dist(n,100000000);  //8 zeros
 	dist[source]=0;
 	for(int i=1;i<=n-1;i++){
 		for(auto x:edge){
